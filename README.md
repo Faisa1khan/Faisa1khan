@@ -1,13 +1,13 @@
 # <h1 align="center">Hi there, I'm Faisal Khan 👋</h1>
 
 <div align="center">
-  <a href="https://www.khanfaisal.me/">
+  <a href="https://arrivo.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Senior+Frontend+Engineer;6%2B+Years+Building+Enterprise+SaaS;React+%7C+TypeScript+%7C+Next.js;Google+India+Challenge+Scholar" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://www.khanfaisal.me/"><img src="https://img.shields.io/badge/Portfolio-khanfaisal.me-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://arrivo.dev"><img src="https://img.shields.io/badge/Website-arrivo.dev-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:faisalkhan5464@gmail.com"><img src="https://img.shields.io/badge/Email-faisalkhan5464%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/faisalkhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Faisa1khan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -21,10 +21,11 @@
 
 - 💼 **Professional Experience**: Software Engineer (Frontend) at **Qandle by MyndX** since 2019 — leading core modules across Payroll, Compliance, and multi-country HRMS workflows (India, Malaysia, UAE), and architecting large-scale AngularJS-to-React migrations.
 - 🚀 **Projects**:
-  - **[Arrivo](https://github.com/Faisa1khan)**: Mobile-first, multi-tenant SaaS scheduling platform built with Next.js App Router, TypeScript, Tailwind CSS, Supabase, Drizzle ORM, and Playwright.
+  - **[Arrivo](https://arrivo.dev)**: Mobile-first, multi-tenant SaaS scheduling platform built with Next.js App Router, TypeScript, Tailwind CSS, Supabase, Drizzle ORM, and Playwright.
   - **Universal AI Brain**: Persistent engineering knowledge & observability system using Model Context Protocol (MCP), Gemini, Axiom, and TypeScript.
 - 🏆 **Honors**: **Google India Challenge Scholar** (Selected among Top 150 candidates nationwide; completed Udacity Mobile Web Specialist Nanodegree).
 - 📍 **Location**: Gurgaon, India · Open to Remote
+- 🌐 **Website**: [**arrivo.dev**](https://arrivo.dev)
 
 ---
 
@@ -75,5 +76,5 @@
 ---
 
 <p align="center">
-  <i>⭐ Crafted with clean standards by <a href="https://www.khanfaisal.me/">Faisal Khan</a></i>
+  <i>⭐ Crafted with clean standards by <a href="https://arrivo.dev">Faisal Khan</a></i>
 </p>
